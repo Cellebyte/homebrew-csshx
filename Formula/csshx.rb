@@ -1,8 +1,8 @@
 class Csshx < Formula
   desc "Cluster ssh tool for Terminal.app"
   homepage "https://github.com/cellebyte/csshx"
-  url "https://github.com/cellebyte/csshx/archive/0.73-4.tar.gz"
-  sha256 "a5e699b9ce87857382dc02370b09f7ac1b4c05567691c1e1e8c3a69f7e76cbce"
+  url "https://github.com/cellebyte/csshx/archive/0.74.tar.gz"
+  sha256 "ca102cec840bdbcfa4d68649fbc4c657f338ea6ef0f873367cef27100ccb0757"
   head "https://github.com/cellebyte/csshx.git"
 
   def install
